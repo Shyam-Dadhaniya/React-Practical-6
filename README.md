@@ -37,7 +37,10 @@ $ npm install @reduxjs/toolkit
 ##### Open http://localhost: .... to view it in your browser.
 
 #### App Preview:
-![Screenshot from 2022-03-24 16-28-27](https://user-images.githubusercontent.com/97106864/159902174-4be78868-a47e-4743-9de9-eaebeb48f08c.png)
-![Screenshot from 2022-03-24 16-29-01](https://user-images.githubusercontent.com/97106864/159902243-c9944a73-248c-4348-917a-618d7ee2d6a3.png)
+![Screenshot from 2022-03-28 14-01-36](https://user-images.githubusercontent.com/97106864/160358499-9ebdff3b-f349-4ad0-873a-d81deba6ee4d.png)
+![Screenshot from 2022-03-28 14-02-37](https://user-images.githubusercontent.com/97106864/160359130-b6400405-27c9-44e2-9c61-89ab5d88f8e1.png)
+![Screenshot from 2022-03-28 14-03-04](https://user-images.githubusercontent.com/97106864/160359160-c5969663-a859-421a-9e1f-3e47424f6a77.png)
+![Screenshot from 2022-03-28 14-03-35](https://user-images.githubusercontent.com/97106864/160359178-e1399130-c32f-46c3-ad23-5a9a3da1a295.png)
+
 
 
