@@ -1,6 +1,6 @@
 import React from "react";
 import { useDispatch, useSelector } from "react-redux";
-import { getUser } from "../../store/userSlice";
+import { getUser } from "../../store/reducers/userReducer";
 import NavigationStyle from "../../styled/navigation/navigation.style";
 
 const PageNavigation = () => {

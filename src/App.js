@@ -1,7 +1,7 @@
 import React , {useEffect} from "react";
 // import { useSelector } from "react-redux";
 import UserListContainer from "./container/UserListContainer";
-import { getUser } from "./store/userSlice";
+import { getUser } from "./store/reducers/userReducer";
 import { useDispatch } from "react-redux";
 function App() {
   const dispatch = useDispatch();
