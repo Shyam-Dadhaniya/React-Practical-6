@@ -1,5 +1,5 @@
 import React from "react";
-import MainStyle from "../styled/Main.styles";
+import MainStyle from "../styled/main.styles";
 import Header from "../components/Header/Header";
 import UserList from "../components/User/UserList";
 import UserCard from "../components/UserCard/UserCard";

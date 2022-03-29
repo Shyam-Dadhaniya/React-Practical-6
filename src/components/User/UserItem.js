@@ -1,10 +1,10 @@
 import React from "react";
 import { FiTrash, FiLock } from "react-icons/fi";
-import UserItemStyle from "../../styled/list/UserItem.style";
-import NameBoxStyle from "../../styled/list/NameBox.style";
-import NameStyle from "../../styled/list/Name.style";
-import AvatarStyle from "../../styled/list/Avatar.style";
-import DropDown from "../../styled/list/DropDown.style";
+import UserItemStyle from "../../styled/list/userItem.style";
+import NameBoxStyle from "../../styled/list/nameBox.style";
+import NameStyle from "../../styled/list/name.style";
+import AvatarStyle from "../../styled/list/avatar.style";
+import DropDown from "../../styled/list/dropDown.style";
 import { useDispatch } from "react-redux";
 import { cardActions } from "../../store/userCardSlice";
 const UserItem = (props) => {
