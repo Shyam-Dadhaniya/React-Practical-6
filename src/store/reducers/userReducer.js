@@ -1,10 +1,11 @@
 import { createAsyncThunk } from "@reduxjs/toolkit";
+import { config } from "../../config/env.config";
 
 export const getUser = createAsyncThunk(
   "user/getUser",
   async ({ page, perPage }) => {
     return fetch(
-      `https://reqres.in/api/users?page=${page}&per_page=${perPage}`
+      `${config.API_URL}/users?page=${page}&per_page=${perPage}`
     ).then((response) => {
       return response.json();
     });
